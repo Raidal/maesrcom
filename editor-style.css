@@ -1,0 +1,16 @@
+*{ margin:0; padding:0;}
+img{ border:0;}
+:focus {outline: 0;}
+ul,ol{ list-style:none;}
+.clear{ clear:both; margin:0; padding:0;}
+body{ font:14px "Microsoft YaHei", "微软雅黑", "Arial", "Lucida Grande", "Tahoma", sans-serif; color:#555; text-align:left; }
+a{ color:#f89829; text-decoration:none;}
+a:hover{color:#f89829; text-decoration:none;}
+
+h1{ font-size:16px; color:#e5004f; font-weight:normal;border-left: 3px solid #e5004f; height:16px; line-height:16px; margin-bottom:20px;text-indent:10px;}
+h2{ font-size:16px; color:#f19149; font-weight:normal;border-left: 3px solid #f19149; height:16px; line-height:16px; margin-bottom:20px;text-indent:10px;}
+h3{ font-size:16px; color:#fff45c; font-weight:normal;border-left: 3px solid #fff45c; height:16px; line-height:16px; margin-bottom:20px;text-indent:10px;}
+h4{ font-size:16px; color:#b3d465; font-weight:normal;border-left: 3px solid #b3d465; height:16px; line-height:16px; margin-bottom:20px;text-indent:10px;}
+h5{ font-size:16px; color:#009AD6; font-weight:normal;border-left: 3px solid #009AD6; height:16px; line-height:16px; margin-bottom:20px;text-indent:10px;}
+h6{ font-size:16px; color:#aa89bd; font-weight:normal;border-left: 3px solid #aa89bd; height:16px; line-height:16px;   margin-bottom:20px; text-indent:10px;}
+p{ line-height:24px; margin-bottom:20px;}
